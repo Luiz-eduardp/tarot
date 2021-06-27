@@ -3,7 +3,7 @@ var deck = {};
 var rank = "";
 var suit = "";
 var deckArr = [];
-var cardBack = "<img class='img-thumbnail' src='https://www.taroteca-studio.com/userdata/gfx/ded5c7d24302f5a1c8f180a509206342.jpg'>";
+var cardBack = "<img class='img-thumbnail' src='https://www.taroteca-studio.com/userdata/gfx/549b299e5fd490d37ec94a0e3bd1aa37.jpg'>";
 var meanings = {
     upright: [
         //CUPS
