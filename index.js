@@ -38,7 +38,7 @@ var meanings = {
             name: "Dez de copas é a carta para a felicidade espiritual total experimentada em seu relacionamento, casa e vida familiar. Esta carta é sobre estar em alinhamento com sua verdadeira natureza e tudo em sua vida está em harmonia com seu eu superior e propósito neste planeta."
         },
         {
-            name: "A página de copas denota um jovem de natureza gentil e sensível. É alguém que vive maravilhado e às vezes pode ser bastante ingênuo."
+            name: "O Pajem de copas denota um jovem de natureza gentil e sensível. É alguém que vive maravilhado e às vezes pode ser bastante ingênuo."
         },
         {
             name: "Cavaleiro de copas denota uma pessoa em uma missão para declarar seu amor. Este é o seu cavaleiro de armadura brilhante. Ele é um cantor, poeta e escritor. Ele pinta e cria onde quer que vá. Ele é artístico e incrivelmente adorável."
@@ -83,7 +83,7 @@ var meanings = {
             name: "Dez de Ouros simboliza o tipo de riqueza que você obtém quando herda algo, seja o seu próprio dinheiro de aposentadoria, bens passados ou posses de alguém que já faleceu."
         },
         {
-            name: "Página de Pentáculos indica que você está se reinventando de alguma forma. Muitas vezes denota uma oportunidade de começar algo novo, seja um empreendimento criativo, estudo, negócios ou uma nova oferta de emprego. Página de Pentáculos ainda não é um especialista na área de escolha mas tem um objetivo claro e um sonho a alcançar."
+            name: "Pajem de Ouros indica que você está se reinventando de alguma forma. Muitas vezes denota uma oportunidade de começar algo novo, seja um empreendimento criativo, estudo, negócios ou uma nova oferta de emprego. Pajem de Pentáculos ainda não é um especialista na área de escolha mas tem um objetivo claro e um sonho a alcançar."
         },
         {
             name: "Cavaleiro de Ouros denota estar a serviço e fazer o trabalho real (em contraste com Pajem de Ouros, que gosta de sonhar acordado com a ideia, em vez de vivê-la de fato). O Cavaleiro de Ouros sente-se confortável com a rotina e é eficiente e conservador."
@@ -127,7 +127,7 @@ var meanings = {
             name: "Dez de Espadas é a carta para finalizações e perdas, traição e falta de apoio. Às vezes, esta carta denota atingir o fundo do poço. Tem a mentalidade de quando chove, transborda, e o consulente pode estar sentindo que o sofrimento não tem fim."
         },
         {
-            name: "Página de Espadas denota uma pessoa jovem e mentalmente muito ativa e inteligente. É alguém que consegue se concentrar por longos períodos de tempo e que aprende novas habilidades com facilidade, especialmente habilidades mentais."
+            name: "Pajem de Espadas denota uma pessoa jovem e mentalmente muito ativa e inteligente. É alguém que consegue se concentrar por longos períodos de tempo e que aprende novas habilidades com facilidade, especialmente habilidades mentais."
         },
         {
             name: "Cavaleiro de Espadas denota uma pessoa comunicativa, enérgica e, às vezes, obstinada, que é muito orientada para a ação e gosta de mudanças. Este é alguém com uma veia competitiva e não gosta de abrir mão de sua posição em uma discussão."
@@ -170,7 +170,7 @@ var meanings = {
             name: "Dez de Paus é a carta para trabalhar duro e assumir mais responsabilidades."
         },
         {
-            name: "Página de Paus denota um jovem entusiasmado que está ansioso para explorar e ganhar experiência de vida."
+            name: "Pajem de Paus denota um jovem entusiasmado que está ansioso para explorar e ganhar experiência de vida."
         },
         {
             name: "Cavaleiro de Paus denota uma pessoa que está viajando pela vida em alta velocidade, vivendo em alta velocidade. Esse é alguém que vai ser a vida da festa."
